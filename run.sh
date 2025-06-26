@@ -1,2 +1,2 @@
 docker build -t myimage .
-docker run -d -p 8000:8000 myimage
+docker run -p 8000:8000 myimage
